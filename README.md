@@ -21,3 +21,6 @@ git clone https://github.com/qorsan73/Fish-hack
 cd Fish-hack
 python Jewel.py
 ````
+# employment
+
+* 1- Create a bot in Telegram and name it after the site you want to phish.  
